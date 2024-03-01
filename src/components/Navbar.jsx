@@ -5,7 +5,7 @@ function Navbar() {
     <>
       {/* Navbar */}
       <nav className="w-full h-16 bg-primary-dark fixed flex justify-between items-center px-10 py-2">
-        <h1 className="text-3xl text-primary-light font-bold">Tokokue</h1>
+        <h1 className="text-3xl text-primary-light font-bold">Tokokue Galih</h1>
         <input type="checkbox" id="check" />
         <label for="check" className="icons">
           <i className="fa-solid fa-bars" id="menu-icon"></i>

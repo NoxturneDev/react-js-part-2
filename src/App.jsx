@@ -8,7 +8,6 @@ function App() {
   return (
     <>
       <body className="min-h-screen bg-primary">
-        {/* Navbar */}
         <Navbar />
         <main>
           <Hero />
